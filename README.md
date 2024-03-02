@@ -19,7 +19,7 @@ I am a Software Engineering Master's student with five years of experience in so
 
 ### Web Applications
 - **Python Web Application (Flask)**: A "Chinese whisper game" utilizing AI.
-- **JavaScript Web Application**: A game to illuminate a castle.
+- **JavaScript Web Application**: A game to Light bulb placement.
 
 ### 3D Engine
 - **Unity**: A Japanese Highway simulator.
