@@ -8,8 +8,8 @@ I am a Software Engineering Master's student with five years of experience in so
 
 ### AI
 - **Python AI Clustering**: [Academic paper collection and clustering program](https://github.com/Tamago55/AI-PaperMiner)
-- **Python AI Image Detection**: Program to categorize eye diseases.
-- **Python AI Image Detection 2**: [Automatic model training system using an image generation program](https://github.com/Tamago55/Automatic-model-training-with-Image-generation)
+- **Python AI Image classfication: Program to categorize eye diseases.
+- **Python AI Image Detection: [Automatic model training system using an image generation program](https://github.com/Tamago55/Automatic-model-training-with-Image-generation)
 
 ### Embedded Systems
 - **Embedded Programming using Arduino (C++)**: [Line Follower and Obstacle Avoiding Tank](https://github.com/Tamago55/Line-Follower-Obstacle-Avoiding)
