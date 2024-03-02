@@ -1,6 +1,6 @@
 # Hi there!
 
-I am a Software Engineering Master's student with five years of experience in software design and manufacturing engineering. Below is an index of my skills and projects which I've developed to hone my abilities and contribute to the field.
+I am a Software Engineering Master's student with five years of experience in software design and manufacturing engineering at car parts manufacturer. Below is an index of my skills and projects which I've developed to hone my abilities and contribute to the field.
 
 <img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/tank.JPG" width="30%" alt="Tank Image">
 
@@ -25,7 +25,7 @@ I am a Software Engineering Master's student with five years of experience in so
 - **Unity**: [A Japanese Highway simulator](https://github.com/Tamago55/Highway-Simulator-using-Unity)
 
 ### Development Methods
-- **DevOps**: An automated system for testing, containerizing, and uploading to Google Cloud.
+- **DevOps**: [An automated system](https://github.com/Tamago55/DevOps_uni) for testing, containerizing, and uploading to Google Cloud.
 
 ### Object-Oriented Programming
 - **Java GUI Application (Swing)**: An app that converts Japanese text to Morse code signals.
