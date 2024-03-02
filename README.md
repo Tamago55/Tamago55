@@ -15,7 +15,7 @@ I am a Software Engineering Master's student with five years of experience in so
 - **Embedded Programming using Arduino (C++)**: [Line Follower and Obstacle Avoiding Tank](https://github.com/Tamago55/Line-Follower-Obstacle-Avoiding)
 
 ### Cloud Computing
-- **AWS using Terraform**: [Digital library management web application](https://github.com/Tamago55/Digital-Library-Management) using Cloud (AWS) for the backend and HTML & CSS for the frontend.
+- **AWS using Terraform**: [Digital library management web application using Cloud (AWS)](https://github.com/Tamago55/Digital-Library-Management)
 
 ### Web Applications
 - **Python Web Application (Flask)**: ["Chinese whisper game" utilizing AI](https://github.com/Tamago55/ChineseWhispersDL)
