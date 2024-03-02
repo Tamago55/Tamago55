@@ -18,7 +18,7 @@ I am a Software Engineering Master's student with five years of experience in so
 - **AWS using Terraform**: [The digital library management web application](https://github.com/Tamago55/Digital-Library-Management) using Cloud (AWS) for the backend and HTML & CSS for the frontend.
 
 ### Web Applications
-- **Python Web Application (Flask)**: A "Chinese whisper game" utilizing AI.
+- **Python Web Application (Flask)**: [A "Chinese whisper game" utilizing AI](https://github.com/Tamago55/ChineseWhispersDL)
 - **JavaScript Web Application**: [A game to Light bulb placement](https://github.com/Tamago55/Lightbulb-placement)
 
 ### 3D Engine
