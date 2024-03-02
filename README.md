@@ -7,7 +7,7 @@ I am a Software Engineering Master's student with five years of experience in so
 ## Skills and Project Index
 
 ### AI
-- **Python AI Clustering**: An academic paper collection and clustering program.
+- **Python AI Clustering**: [An academic paper collection and clustering program](https://github.com/Tamago55/AI-PaperMiner)
 - **Python AI Image Detection**: A program to categorize eye diseases.
 - **Python AI Image Detection 2**: An automatic model training system using an image generation program.
 
