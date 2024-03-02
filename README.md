@@ -7,28 +7,28 @@ I am a Software Engineering Master's student with five years of experience in so
 ## Skills and Project Index
 
 ### AI
-- **Python AI Clustering**: [An academic paper collection and clustering program](https://github.com/Tamago55/AI-PaperMiner)
-- **Python AI Image Detection**: A program to categorize eye diseases.
-- **Python AI Image Detection 2**: An automatic model training system using an image generation program.
+- **Python AI Clustering**: [Academic paper collection and clustering program](https://github.com/Tamago55/AI-PaperMiner)
+- **Python AI Image Detection**: Program to categorize eye diseases.
+- **Python AI Image Detection 2**: [Automatic model training system using an image generation program](https://github.com/Tamago55/Automatic-model-training-with-Image-generation)
 
 ### Embedded Systems
 - **Embedded Programming using Arduino (C++)**: [Line Follower and Obstacle Avoiding Tank](https://github.com/Tamago55/Line-Follower-Obstacle-Avoiding)
 
 ### Cloud Computing
-- **AWS using Terraform**: [The digital library management web application](https://github.com/Tamago55/Digital-Library-Management) using Cloud (AWS) for the backend and HTML & CSS for the frontend.
+- **AWS using Terraform**: [Digital library management web application](https://github.com/Tamago55/Digital-Library-Management) using Cloud (AWS) for the backend and HTML & CSS for the frontend.
 
 ### Web Applications
-- **Python Web Application (Flask)**: [A "Chinese whisper game" utilizing AI](https://github.com/Tamago55/ChineseWhispersDL)
-- **JavaScript Web Application**: [A game to Light bulb placement](https://github.com/Tamago55/Lightbulb-placement)
+- **Python Web Application (Flask)**: ["Chinese whisper game" utilizing AI](https://github.com/Tamago55/ChineseWhispersDL)
+- **JavaScript Web Application**: [Game to Light bulb placement](https://github.com/Tamago55/Lightbulb-placement)
 
 ### 3D Engine
-- **Unity**: [A Japanese Highway simulator](https://github.com/Tamago55/Highway-Simulator-using-Unity)
+- **Unity**: [Japanese Highway simulator](https://github.com/Tamago55/Highway-Simulator-using-Unity)
 
 ### Development Methods
-- **DevOps**: [An automated system](https://github.com/Tamago55/DevOps_uni) for testing, containerizing, and uploading to Google Cloud.
+- **DevOps**: [Automated system](https://github.com/Tamago55/DevOps_uni) for testing, containerizing, and uploading to Google Cloud.
 
 ### Object-Oriented Programming
-- **Java GUI Application (Swing)**: An app that converts Japanese text to Morse code signals.
+- **Java GUI Application (Swing)**: Application that converts Japanese text to Morse code signals.
 
 Feel free to explore the repositories👍
 
