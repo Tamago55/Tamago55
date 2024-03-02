@@ -2,7 +2,7 @@
 
 I am a Software Engineering Master's student with five years of experience in software design and manufacturing engineering. Below is an index of my skills and projects which I've developed to hone my abilities and contribute to the field.
 
-<img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/tank.JPG" width="50%" alt="Tank Image">
+<img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/tank.JPG" width="30%" alt="Tank Image">
 
 ## Skills and Project Index
 
