@@ -28,7 +28,7 @@ I am a Software Engineering Master's student with five years of experience in so
 - **DevOps**: [Automated system](https://github.com/Tamago55/DevOps_uni) for testing, containerizing, and uploading to Google Cloud.
 
 ### Object-Oriented Programming
-- **Java GUI Application (Swing)**: Application that converts Japanese text to Morse code signals.
+- **Java GUI Application (Swing)**: [Application that converts Japanese text to Morse code signals](https://github.com/Tamago55/Aishiteru-Signal)
 
 Feel free to explore the repositories👍
 
