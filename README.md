@@ -8,7 +8,7 @@ I am a Software Engineering Master's student with five years of experience in so
 
 ### AI
 - **Python AI Clustering**: [Academic paper collection and clustering program](https://github.com/Tamago55/AI-PaperMiner)
-- **Python AI Image classfication**: [Program to categorize eye diseases](https://github.com/Tamago55/AI-Image-Classfication-of-Eye-Disease)
+- **Python AI Image Classfication**: [Program to categorize eye diseases](https://github.com/Tamago55/AI-Image-Classfication-of-Eye-Disease)
 - **Python AI Image Detection**: [Automatic model training system using an image generation program](https://github.com/Tamago55/Automatic-model-training-with-Image-generation)
 
 ### Embedded Systems
