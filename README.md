@@ -31,6 +31,7 @@ I am a Software Engineering Master's student with five years of experience in so
 - **Java GUI Application (Swing)**: [Application that converts Japanese text to Morse code signals](https://github.com/Tamago55/Aishiteru-Signal)
 
 Feel free to explore the repositories👍
+
 Additionally, Youtube　channel for my GitHub is available at [this link](https://www.youtube.com/channel/UCdKYKAVe63WNgnUOzRXKnJQ)
 
 
