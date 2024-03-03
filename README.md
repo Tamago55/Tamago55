@@ -25,7 +25,7 @@ I am a Software Engineering Master's student with five years of experience in so
 - **Unity**: [Japanese Highway simulator](https://github.com/Tamago55/Highway-Simulator-using-Unity)
 
 ### Development Methods
-- **DevOps**: [Automated system](https://github.com/Tamago55/DevOps_uni) for testing, containerizing, and uploading to Google Cloud.
+- **DevOps**: [Automated system for testing, containerizing, and uploading to Google Cloud](https://github.com/Tamago55/DevOps_uni) 
 
 ### Object-Oriented Programming
 - **Java GUI Application (Swing)**: [Application that converts Japanese text to Morse code signals](https://github.com/Tamago55/Aishiteru-Signal)
