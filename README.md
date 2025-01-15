@@ -1,13 +1,13 @@
 # Hi there!!
 
 <div style="display: flex; align-items: center;">
-  <div>
+  <div style="flex: 1;">
     <p>
       I am a Software Engineering Master's student with four and half years of experience in software design and manufacturing engineering at a car parts manufacturer. Below is an index of my skills and projects which I've developed to hone my abilities and contribute to the field.
     </p>
   </div>
   <div>
-    <img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/tank.JPG" width="150" alt="Tank Image" style="margin-left: 20px;"/>
+    <img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/tank.JPG" width="150" alt="Tank Image" />
   </div>
 </div>
 
@@ -40,8 +40,6 @@
 
 ### Object-Oriented Programming
 - **Java GUI Application (Swing)**: [Application that converts Japanese text to Morse code signals](https://github.com/Tamago55/Aishiteru-Signal)
-
-Feel free to explore the repositories👍
 
 ### 📺 YouTube
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdKYKAVe63WNgnUOzRXKnJQ)
