@@ -1,11 +1,25 @@
 # Hi there!
 
-I am a Software Engineering Master's student with five years of experience in software design and manufacturing engineering at car parts manufacturer. Below is an index of my skills and projects which I've developed to hone my abilities and contribute to the field.
+I am a Software Engineering Master's student with four and half years of experience in software design and manufacturing engineering at car parts manufacturer. Below is an index of my skills and projects which I've developed to hone my abilities and contribute to the field.
 
-<img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/tank.JPG" width="30%" alt="Tank Image">
+<img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/tank.JPG" width="20%" alt="Tank Image">
 
-## Skills and Project Index
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+![Hiroya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiroya&show_icons=true&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=hiroya&theme=dracula)
+
+### 🔥 Featured Projects
 ### AI
 - **Python AI Clustering**: [Academic paper collection and clustering program](https://github.com/Tamago55/AI-PaperMiner)
 - **Python AI Image Classfication**: [Program to categorize eye diseases](https://github.com/Tamago55/AI-Image-Classfication-of-Eye-Disease)
@@ -33,6 +47,9 @@ I am a Software Engineering Master's student with five years of experience in so
 Feel free to explore the repositories👍
 
 Additionally, Youtube channel for my GitHub is available at [this link](https://www.youtube.com/channel/UCdKYKAVe63WNgnUOzRXKnJQ)
+
+### 🌱 Currently Learning
+I'm diving deep into OpenEMS and its potential with OPC UA.
 
 <!--
 **Tamago55/Tamago55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
