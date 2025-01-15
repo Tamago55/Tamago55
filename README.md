@@ -1,8 +1,15 @@
-# Hi there!
+# Hi there!!
 
-I am a Software Engineering Master's student with four and half years of experience in software design and manufacturing engineering at car parts manufacturer. Below is an index of my skills and projects which I've developed to hone my abilities and contribute to the field.
-
-<img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/tank.JPG" width="20%" alt="Tank Image">
+<div style="display: flex; align-items: center;">
+  <div>
+    <p>
+      I am a Software Engineering Master's student with four and half years of experience in software design and manufacturing engineering at a car parts manufacturer. Below is an index of my skills and projects which I've developed to hone my abilities and contribute to the field.
+    </p>
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/Tamago55/Line-Follower-Obstacle-Avoiding/main/pic/tank.JPG" width="150" alt="Tank Image" style="margin-left: 20px;"/>
+  </div>
+</div>
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,9 +22,6 @@ I am a Software Engineering Master's student with four and half years of experie
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![Hiroya's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiroya&show_icons=true&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=hiroya&theme=dracula)
 
 ### 🔥 Featured Projects
 ### AI
@@ -46,11 +50,14 @@ I am a Software Engineering Master's student with four and half years of experie
 
 Feel free to explore the repositories👍
 
-Additionally, Youtube channel for my GitHub is available at [this link](https://www.youtube.com/channel/UCdKYKAVe63WNgnUOzRXKnJQ)
+### 📺 YouTube
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdKYKAVe63WNgnUOzRXKnJQ)
 
 ### 🌱 Currently Learning
-I'm diving deep into OpenEMS and its potential with OPC UA.
+I am currently developing a web application using Java and Angular for energy management. I am looking for job opportunities where I can advance my career by combining IoT and web application development.
 
+### 🌟 Fun Fact
+I enjoy cooking Japanese food as a hobby. Recently, I made nikuman (steamed buns filled with meat and vegetables) and gyoza (pan-fried dumplings). I have a particular love for Japanese-style Chinese cuisine!
 <!--
 **Tamago55/Tamago55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
