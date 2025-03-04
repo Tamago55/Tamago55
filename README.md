@@ -14,8 +14,6 @@
 ### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,angular,docker,aws,tensorflow,pytorch,mongodb,git,figma,ubuntu,unity)](https://skillicons.dev)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamago55&layout=compact&theme=radical&langs_count=8" />
-
 ### 🔥 Featured Projects
 ### AI
 - **Python AI Clustering**: [Academic paper collection and clustering program](https://github.com/Tamago55/AI-PaperMiner)
